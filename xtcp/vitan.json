@@ -2,6 +2,7 @@
 	"data":[
 		{"username":"sshuser", "limit":1, "expired":"2050-12-31"},
 		{"username":"mahesh", "limit":1, "expired":"2050-12-31"},
-		{"username":"jagrut", "limit":1, "expired":"2050-12-31"}
+		{"username":"jagrut", "limit":1, "expired":"2050-12-31"},
+		{"username":"kamlesh", "limit":1, "expired":"2050-12-31"}
 	]
 }
