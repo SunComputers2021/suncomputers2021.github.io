@@ -2,7 +2,7 @@
 CD /d "%~dp0"
 
 echo "do_job"
-mkdir c:\do_job
-mkdir c:\Hello-World
+mkdir c:\BgInfo\do_job
+mkdir c:\BgInfo\Hello-World
 
 @echo on
