@@ -4,14 +4,6 @@
 		{"username":"ashishdoshi", "limit":1, "expired":"2022-12-31"},
 		{"username":"mitulthakkar", "limit":1, "expired":"2022-12-31"},
 		{"username":"ruser1", "limit":1, "expired":"2022-12-31"},
-		{"username":"ruser2", "limit":1, "expired":"2022-12-31"},
-		{"username":"ruser3", "limit":1, "expired":"2022-12-31"},
-		{"username":"ruser4", "limit":1, "expired":"2022-12-31"},
-		{"username":"ruser5", "limit":1, "expired":"2022-12-31"},
-		{"username":"ruser6", "limit":1, "expired":"2022-12-31"},
-		{"username":"ruser7", "limit":1, "expired":"2022-12-31"},
-		{"username":"ruser8", "limit":1, "expired":"2022-12-31"},
-		{"username":"ruser9", "limit":1, "expired":"2022-12-31"},
 		{"username":"kamlesh", "limit":1, "expired":"2050-12-31"}
 	]
 }
