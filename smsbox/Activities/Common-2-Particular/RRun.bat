@@ -1,3 +1,3 @@
 @echo off
-call RRunshell.exe VM-Home-Win11Pro
+call RRunshell.exe VM-Win2012R2-Std
 @echo on
