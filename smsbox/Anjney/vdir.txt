@@ -1,0 +1,17 @@
+ Volume in drive V is Backup
+ Volume Serial Number is 7619-0F1E
+
+ Directory of V:\
+
+13-12-2021  10:33    <DIR>          .
+18-11-2021  20:32    <DIR>          ..
+19-11-2021  15:31    <DIR>          common-data
+19-11-2021  13:51    <DIR>          Datastore
+17-08-2018  16:10    <DIR>          Fujitsu Primergy 140
+19-11-2021  12:03    <DIR>          Polymer-Division
+28-11-2021  20:00    <DIR>          Tally-Backup
+12-12-2021  13:02    <DIR>          TallyBackup-Zip-Weekly
+13-12-2021  10:33                89 vdir
+23-11-2021  02:07    <DIR>          Vmbackup
+               1 File(s)             89 bytes
+               9 Dir(s)  498,186,084,352 bytes free
