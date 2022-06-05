@@ -1,7 +1,6 @@
 {
 	"data":[
 		{"username":"sshuser", "limit":5, "expired":"2050-12-31"},
-		{"username":"nilesh", "limit":1, "expired":"2050-12-31"},
 		{"username":"ruser1", "limit":1, "expired":"2050-12-31"},
 		{"username":"ruser2", "limit":1, "expired":"2050-12-31"},
 		{"username":"ruser3", "limit":4, "expired":"2050-12-31"},
