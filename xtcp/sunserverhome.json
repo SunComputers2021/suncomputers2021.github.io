@@ -4,7 +4,7 @@
 		{"username":"nilesh", "limit":1, "expired":"2050-12-31"},
 		{"username":"ruser1", "limit":1, "expired":"2050-12-31"},
 		{"username":"ruser2", "limit":1, "expired":"2050-12-31"},
-		{"username":"ruser3", "limit":2, "expired":"2050-12-31"},
+		{"username":"ruser3", "limit":4, "expired":"2050-12-31"},
 		{"username":"kamlesh", "limit":1, "expired":"2050-12-31"}
 	]
 }
