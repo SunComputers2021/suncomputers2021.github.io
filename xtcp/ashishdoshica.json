@@ -10,7 +10,7 @@
 		{"username":"ruser5", "limit":1, "expired":"2023-07-30"},
 		{"username":"ruser6", "limit":1, "expired":"2023-07-30"},
 		{"username":"akhil", "limit":1, "expired":"2023-07-30"},
-		{"username":"testing1", "limit":5, "expired":"2023-07-30"},
+		{"username":"testing1", "limit":8, "expired":"2023-07-30"},
 		{"username":"kamlesh", "limit":1, "expired":"2023-07-30"}
 	]
 }
