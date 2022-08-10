@@ -11,7 +11,7 @@
 		{"username":"ruser6", "limit":1, "expired":"2023-07-30"},
 		{"username":"ruser7", "limit":1, "expired":"2023-07-30"},
 		{"username":"akhil", "limit":1, "expired":"2023-07-30"},
-		{"username":"testing1", "limit":8, "expired":"2023-07-30"},
+		{"username":"testing1", "limit":10, "expired":"2023-07-30"},
 		{"username":"kamlesh", "limit":1, "expired":"2023-07-30"}
 	]
 }
