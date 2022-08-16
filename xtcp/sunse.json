@@ -1,7 +1,0 @@
-{
-	"data":[
-		{"username":"sshuser", "limit":1, "expired":"2050-12-31"},
-		{"username":"meetg", "limit":10, "expired":"2050-12-31"},
-		{"username":"kamlesh", "limit":1, "expired":"2050-12-31"}
-	]
-}
